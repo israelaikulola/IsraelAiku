@@ -15,6 +15,6 @@ Fun Fact: .. I love to draw and play guitar/drums
 
 
 
-https://github.com/israelaikulola/IsraelAiku/edit/main/README.md
+
 
 
