@@ -1,7 +1,7 @@
 ### Hi there, I'm Israel!
 
 ## I'm a Father,Husband, Datascientist, Developer and Teacher
-I am data scientist an d products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community.
+I am data scientist and products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community.
 
 I'm currently working on  Human Rights First- Blue Witness
 
