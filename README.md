@@ -26,7 +26,7 @@
 
 ![Markdown Logo]
 
-(https://markdown-here.com/img/icon256.png)
+!(https://markdown-here.com/img/icon256.png)
 
 '''javascript
 
