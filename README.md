@@ -1,29 +1,39 @@
-### Hi there, I'm Israel!
+# Hi there, I'm Israel!
 
 ## I'm a Father,Husband, Datascientist, Developer and Teacher
-I am data scientist and products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community.
 
-I'm currently working on  Human Rights First- Blue Witness
+###I am data scientist and products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community.
 
-I'm currently learning .......ant Design, aws cloud,json
+-I'm currently working on  Human Rights First- Blue Witness
 
-I'm looking to collaborate with ... other content creators
+-I'm currently learning .......ant Design, aws cloud,json
 
-I'm looking for help with ......Designs, wireframe, aws cloud, json
+-I'm looking to collaborate with ... other content creators
 
-Ask me about ......anything
+-I'm looking for help with ......Designs, wireframe, aws cloud, json
 
-How to reach me: ...https://www.linkedin.com/in/dr-israel-o-aikulola/
+-Ask me about ......anything
 
-Pronoun: ... He/Him
+-How to reach me: ... [Linkedin](https://www.linkedin.com/in/dr-israel-o-aikulola/)
 
-2021 Goals: Contribute more to Open Source projects
+-Pronoun: ... He/Him
 
-
-Fun Fact: .. I love to draw and play guitar/drums
+-2021 Goals: Contribute more to Open Source projects
 
 
+-Fun Fact: .. I love to draw and play guitar/drums
 
 
+![Markdown Logo]
+(https://markdown-here.com/img/icon256.png)
 
+'''javascript
+   function add(num1, num2) {
+     return num1 + num2;
+   }
+'''
 
+'''python
+   def add(num1, num2):
+     return num1 + num2
+'''
