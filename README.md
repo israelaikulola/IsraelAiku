@@ -1,6 +1,6 @@
 # Hi there, I'm Israel!
 
-## I'm a Father,Husband, Datascientist, Developer and Teacher
+## I'm a Father,Husband, Data Scientist/Analyst/Engineer, Developer and Teacher
 
 ### I am data scientist and products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community.
 
