@@ -29,20 +29,5 @@
 (![image](https://user-images.githubusercontent.com/77282517/121774294-e16ffd80-cb4f-11eb-9430-3dc4797764d9.png)
 )
 
-'''javascript
+Languages and Tools: Python (NumPy, Pandas, Scikit-learn), SQL, R, and Excel
 
-   function add(num1, num2) {
-   
-     return num1 + num2;
-     
-   }
-   
-'''
-
-'''python
-
-   def add(num1, num2):
-   
-     return num1 + num2
-     
-'''
