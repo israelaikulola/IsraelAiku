@@ -31,3 +31,37 @@
 
 Languages and Tools: Python (NumPy, Pandas, Scikit-learn), SQL, R, and Excel
 
+
+
+create anew repository on the command line
+
+echo "# israelaikulola" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/israelaikulola/israelaikulola.git
+git push -u origin main
+pushing an existing repository
+
+git remote add origin https://github.com/israelaikulola/israelaikulola.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
